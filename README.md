@@ -11,3 +11,6 @@ Welcome to the Netflix Data Analysis and Visualization project repository! In th
 
 ## Dataset:
 The dataset provided includes information on Netflix titles, including attributes such as ratings, release years, genres, descriptions, durations, and dates added. Additionally, supplementary data on viewer demographics, regional preferences, and content performance metrics may be incorporated for a comprehensive analysis.
+
+## Output
+![Netflix](https://github.com/B2-80615/Netflix-Data-Analysis/assets/144593254/27cd0f8f-6cb1-4b16-9242-f1cc2655a8d8)
