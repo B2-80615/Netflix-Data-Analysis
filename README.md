@@ -1,7 +1,7 @@
 # Netflix-Data-Analysis
 
 ## Description:
-Welcome to the Netflix Data Analysis and Visualization project repository! In this project, we delve into the extensive dataset provided by Netflix to uncover insights into viewer behavior, content preferences, and global trends in streaming entertainment. Leveraging the power of Tableau, we present a comprehensive exploration of Netflix's vast library of movies and TV shows, shedding light on various aspects of the streaming landscape.
+Welcome to the Netflix Data Analysis and Visualization project repository! In this project, I delve into the extensive dataset provided by Netflix to uncover insights into viewer behavior, content preferences, and global trends in streaming entertainment. Leveraging the power of Tableau, I present a comprehensive exploration of Netflix's vast library of movies and TV shows, shedding light on various aspects of the streaming landscape.
 
 ## Key Features:
 - Interactive Visualizations: Dive into interactive Tableau dashboards showcasing insightful visualizations of Netflix data. Explore trends in viewer ratings, genre preferences, release years, and more through dynamic charts and graphs.
